@@ -1,0 +1,11 @@
+Name,age,gender,desiredRating,following,minPay,TargetAudience,InfluencerType,isEst,openToSpons
+The_Rock,50,M,5,75000000,150000,ALL,ACTOR,true,true
+Yeat,23,M,5,50000000,100000,YOUNG_ADULTS,MUSICIAN,true,false
+Donald_Trump,76,M,4,100000000,100000,SENIORS,POLITICAL,true,true
+Dave_Chapelle,49,M,5,30000000,95000,ADULTS,COMEDY,true,false
+Lionel_Messi,35,M,5,300000000,500000,ALL,ATHLETIC,true,true
+Ali_Wong,41,F,5,200000,100000,ADULTS,COMEDY,true,true
+Beyonce,41,F,5,500000000,500000,ALL,MUSICIAN,true,true
+Taylor_Swift,33,F,5,400000000,400000,ALL,MUSICIAN,true,true
+Bethany_Hamilton,33,F,4,1000000,75000,ALL,ATHLETIC,true,true
+Hillary_Clinton,75,F,5,20000000,100000,OLDER_ADULTS,POLITICAL,true,true

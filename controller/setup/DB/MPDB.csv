@@ -1,0 +1,6 @@
+name,age,rating,password,dFollowing,minPay,TargetAudience,InfluencerType,isPremium,fillDeals,dAvgEngagement,dAvgViews
+BlackStone,23,5,pass34,2000000,1540000,KIDS,COMEDY,true,5.0,20000.0
+Luca,21,5,pass34,10000,800,KIDS,ATHLETIC,true,5.0,10000.0
+Luffy,19,5,onepiece,1000,500,KIDS,POLITICAL,false,0.0,0.0
+Tata_Marketing,57,5,pass34,1000000,100000,ALL,OTHER,true,5.0,10000.0
+GreyStone,2,2,pass34,20000,1540,ADULTS,COMEDY,false,0.0,0.0
